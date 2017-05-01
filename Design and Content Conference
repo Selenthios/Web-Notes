@@ -12,6 +12,6 @@ Jen Simmons -- Design, Message, Look
         ++ object fit changes size of image and crops it according to viewport size (object-fit: cover)
         -- clip-path will chop the edge of box off to make the image more unique and not as flat
         ++ shape-outside will flow conent around the image (labs.jensimmons has an arrow tool) [CSS Shapes Editor Plug in as well]
-        -- 
+        ++ Float drop problem can be solved in a much better way using Flexbox/CSS Grid. You can cap height to or width to all make it change according to browser and float a lot better
         
         
