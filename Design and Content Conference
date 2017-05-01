@@ -8,5 +8,5 @@ Jen Simmons -- Design, Message, Look
     -- Useful tools coming or here:
         -- Initial Letter
         ++ @supports wrapped around whatever doesn't work will check to see if the entire thing works. If not it backs out (this is called a feature query)
-        
+        ++ display: flex and margin: auto will change viewport (look into using vh, vw, vmin, vmax)
         
