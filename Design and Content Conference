@@ -14,5 +14,6 @@ Jen Simmons -- Design, Message, Look
         ++ shape-outside will flow conent around the image (labs.jensimmons has an arrow tool) [CSS Shapes Editor Plug in as well]
         ++ Float drop problem can be solved in a much better way using Flexbox/CSS Grid. You can cap height to or width to all make it change according to browser and float a lot better
         ++ Multicolumn will switch images into better columns for image with set width
+        ++ grid-auto-flow: dense makes different groups fit where it can depending on where they will fit. 
         
         
