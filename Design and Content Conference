@@ -7,4 +7,6 @@ Jen Simmons -- Design, Message, Look
 
     -- Useful tools coming or here:
         -- Initial Letter
-        ++ @support wrapped around whatever doesn't work will check to see if the entire thing works. If not it backs out.
+        ++ @supports wrapped around whatever doesn't work will check to see if the entire thing works. If not it backs out (this is called a feature query)
+        
+        
