@@ -1,9 +1,10 @@
 Jen Simmons -- Design, Message, Look
 
--- *{Box-sizing: Border-box} -- Creates a box of with the actual size you want it (makes floating content easier)
+++ *{Box-sizing: Border-box} -- Creates a box of with the actual size you want it (makes floating content easier)
 -- Make your own framework using code from other frameworks
 -- Guide the reader and use negative space as a map
 
 
     -- Useful tools coming or here:
         -- Initial Letter
+        ++ @support wrapped around whatever doesn't work will check to see if the entire thing works. If not it backs out.
