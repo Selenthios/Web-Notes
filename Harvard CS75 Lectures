@@ -20,4 +20,16 @@ Javascript Lecture:
 </script>
 
 -- on.submit="return validate();" is an example of usefuleness of JS it is validating the info before it reaches the server
-
+Script Example: 
+<script>
+    if (document.forms.registration.email.value == "")
+    {
+        alert("Need Email")
+        return false;
+    }
+    else if (etc..)
+    {
+    etc..
+    }
+</script>
+   
