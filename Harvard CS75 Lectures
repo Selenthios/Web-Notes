@@ -31,5 +31,7 @@ Script Example:
     {
     etc..
     }
+return true;
 </script>
-   
+ 
+
