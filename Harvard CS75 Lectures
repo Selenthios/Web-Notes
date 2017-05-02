@@ -18,3 +18,6 @@ Javascript Lecture:
       document.forms.login.password.focus();
     }
 </script>
+
+-- on.submit="return validate();" is an example of usefuleness of JS it is validating the info before it reaches the server
+
