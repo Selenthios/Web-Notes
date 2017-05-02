@@ -7,11 +7,12 @@ Javascript Lecture:
 -- Javascript Server Side -- Node.js
 -- Let's say you want to focus on a username field. What would the code look like? This is an example used:
 <script>
-
+    // put cursor in username field if empty
     if (document.forms.login.username.value === '')
     {
       document.forms.login.username.focus();
     }
+    // else putcursor in password field
     else 
     {
       document.forms.login.password.focus();
