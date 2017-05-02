@@ -2,3 +2,5 @@ Harvard Lectures with David Malan
 
 Javascript Lecture:
 
+-- Fast and good Javascript is necessary for clients
+-- Compiles line by line and not precompiled.
