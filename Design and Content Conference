@@ -2,7 +2,7 @@ Jen Simmons -- Design, Message, Look
 
 ++ *{Box-sizing: Border-box} -- Creates a box of with the actual size you want it (makes floating content easier)
 -- Make your own framework using code from other frameworks
--- Guide the reader and use negative space as a map
+-- Guide the reader and use negative space as a map, don't need to have insane amounts of content
 
 
     -- Useful tools coming or here:
