@@ -1,2 +1,2 @@
 # Web-Notes
-Notes from conferences, etc.
+Notes from conferences, lectures, etc.
