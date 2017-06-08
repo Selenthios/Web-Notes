@@ -1,6 +1,6 @@
 Jen Simmons -- Design, Message, Look
 
-++ *{Box-sizing: Border-box} -- Creates a box of with the actual size you want it (makes floating content easier)
+++ *{Box-sizing: Border-box} -- Creates a box of with the actual size you want it (makes floating content easier).
 -- Make your own framework using code from other frameworks.
 -- Guide the reader and use negative space as a map, don't need to have insane amounts of content.
 
@@ -27,7 +27,7 @@ Alaine MacKenzie -- Building Product Content and Better Content
     -- Listen to what others have to say. Don't talk and just order others around.
     -- Find out What People Need and Discuss it with them
 -- Focus on quick wins (for the Client)
--- Do things first and then tell people second
+-- Do things first and then tell people second.
 -- Educate and empower (don't take over). Also learn from others. 
 
 
