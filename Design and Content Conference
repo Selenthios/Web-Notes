@@ -8,7 +8,7 @@ Jen Simmons -- Design, Message, Look
     -- Useful tools coming or here:
         -- Initial Letter
         ++ @supports wrapped around whatever doesn't work will check to see if the entire thing works. If not it backs out (this is called a feature query)
-        ++ display: flex and margin: auto will change viewport (look into using vh, vw, vmin, vmax)
+        ++ display: flex and margin: auto will change viewport (look into using vh, vw, vmin, vmax).
         ++ object fit changes size of image and crops it according to viewport size (object-fit: cover)
         -- clip-path will chop the edge of box off to make the image more unique and not as flat
         ++ shape-outside will flow conent around the image (labs.jensimmons has an arrow tool) [CSS Shapes Editor Plug in as well]
