@@ -12,7 +12,7 @@ Javascript Lecture:
     {
       document.forms.login.username.focus();
     }
-    // else put cursor in password field 
+    // else put cursor in password field.
     else 
     {
       document.forms.login.password.focus();
